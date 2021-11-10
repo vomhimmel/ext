@@ -1,7 +1,7 @@
 
-body{
-	background-color: black !important;
-	font-color: white !important;
+:root{
+	background-color: rgb(0,0,0) !important;
+	font-color: rgb(255,255,255) !important;
 	font-family: 'Unifont'!important;
 }
 
